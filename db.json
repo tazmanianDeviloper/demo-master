@@ -1,0 +1,20 @@
+{
+  "posts": [
+    { "id": 1, "title": "I" },
+    { "id": 2, "title": "want" },
+    { "id": 3, "title": "a" },
+    { "id": 4, "title": "cup" },
+    { "id": 5, "title": "of" },
+    { "id": 6, "title": "coffee" },
+    { "id": 7, "title": "right" },
+    { "id": 8, "title": "about" },
+    { "id": 9, "title": "now" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
